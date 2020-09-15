@@ -1,0 +1,59 @@
+{
+  "yes": "Yes",
+  "no": "No",
+  "close": "Close",
+  "nextPage": "Next",
+  "stepName": {
+    "step0": "Kind application procedure",
+    "step1": "Select application window",
+    "step2": "Select application",
+    "step3": "Agreement",
+    "step4": "QR code reading"
+  },
+  "modal": {
+    "procedureConfirm": "Are you sure you want to quit?"
+  },
+  "procedures": {
+    "item1": {
+      "title": "B NPO: Visitor acceptance vote",
+      "description": "○○○○○○○に関する証明書の発行を希望される場合"
+    },
+    "item2": {
+      "title": "縦覧受付カード",
+      "description": "○○○○○○○に関する証明書の発行を希望される場合"
+    },
+    "item3": {
+      "title": "マ閲覧受付カード",
+      "description": "○○○○○○○に関する証明書の発行を希望される場合"
+    },
+    "item4": {
+      "title": "マ写申込書",
+      "description": "○○○○○○○に関する証明書の発行を希望される場合"
+    }
+  },
+  "step0": {
+    "txtIntro": "You can apply by entering the required information.<br>Reading the QR code at the time of admission will make the entry even easier.",
+    "nextStep": "Start procedure"
+  },
+  "step1": {
+    "txtIntro": "Please select an application window",
+    "counter": {
+      "counter1": "Urban Development Bureau",
+      "counter2": "Life and Culture Bureau"
+    }
+  },
+  "step2": {
+    "txtIntro": "Select the application content(s) and tap [Next]",
+    "prompt": "Please choose at least a procedure!"
+  },
+  "step3": {
+    "txtIntro": "If you agree with the following contents, tap [Agree and continue]",
+    "agree": "Agree and continute"
+  },
+  "step4": {
+    "txtIntro": "If you have a QR code when entering the agency, please read it.<br>You can also proceed without reading it.",
+    "note": "*Information can be inherited by reading the QR code, and it is possible to reduce the number of input items after that.",
+    "btn1": "Read QR",
+    "btn2": "Do not read QR"
+  }
+}
